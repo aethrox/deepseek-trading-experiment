@@ -10,7 +10,7 @@ I built this trading bot to see if I could use AI (specifically DeepSeek LLM) to
 
 I wanted to experiment with combining AI language models and algorithmic trading. The idea was simple: fetch BTC price data from Bybit, ask DeepSeek to analyze it, and make buy/sell decisions based on its recommendations. Then backtest everything on historical data to see if it would've worked 🔍
 
-![Watch the video](DeepSeek_Agent_Trader.mp4)
+![Watch the video]()
 
 ### 📖 What I Actually Learned
 - How to work with exchange APIs (Bybit in this case) 🔌
