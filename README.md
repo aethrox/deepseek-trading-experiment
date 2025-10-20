@@ -1,0 +1,2 @@
+# dstrading
+DeepSeek Trading BOT
